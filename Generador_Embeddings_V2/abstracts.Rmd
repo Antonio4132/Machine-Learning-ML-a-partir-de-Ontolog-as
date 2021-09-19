@@ -1,0 +1,29 @@
+---
+title: "Embeddings_Umap"
+author: "Antonio Arques Acosta"
+date: "13/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(RISmed)
+myquery = EUtilsSummary("(Parkinson[TI] OR Parkinsonism[TI] OR Dystonia[TI]) AND genetics",
+                        retmax=5000,mindate=2015)
+cat("We get",length(QueryId(myquery)),"papers from the query\n")
+records = EUtilsGet(myquery)
+abstracts = AbstractText(records)
+saveRDS(abstracts,"PD_genetics_abstracts.rds")
+cat("We get",length(abstracts),"\n")
+
+```
+
+```{r}
+write.table(abstracts, "abstracts.txt")
+
+```
+

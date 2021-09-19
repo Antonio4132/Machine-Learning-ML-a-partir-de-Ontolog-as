@@ -1,0 +1,183 @@
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ValveCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Metadata>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MononuclearOsteoclast>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#His-PurkinjeSystemCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#FoamCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticPrecursorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NeuralCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NeuralCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0002319
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CellsInVitro>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HypothalamusNativeCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#System>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CellProjection>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticOligopotentProgenitorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AbsorptiveCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MyeloidLeukocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DiseaseOfAnatomicalEntity>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Fresh>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ElectricallyActiveCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#10XSequencing>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#TransportingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Region>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SebaceousGlandNativeCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Monogenic>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DiseaseOfCellularProliferation>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#KidneyCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#KidneyCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_1000497
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ContractileCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#StructuralCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#StuffAccumulatingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PhysicalDisorder>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MyeloidCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MyeloidCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000763
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Polygenic>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Lymphocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EpithelialCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EpithelialCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000066
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Layer>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Joint>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Platelet>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ReceptorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#LibraryConstruction>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Matrix>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Muscle>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Muscle> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/UBERON_0001630
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Molecule>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EmbrionicTissue>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Splenocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Splenocyte> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_2000074
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Cryopreservation>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CellType>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NucleateCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Illumina>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Rare>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Vessel>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PrecursorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BoneCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DefensiveCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MixedGland>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PreservationType>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PolyploidCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AutosomalDominant>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SupportiveCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Cardiocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NervousTissue>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ProfessionalAntigenPresentingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BenignNeoplasm>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EmbryonicCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EmbryonicCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0002321
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EpithelialTissue>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Organoid>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DevelopmentalStage>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MyofibroblastCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MyofibroblastCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000186
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Cancer>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Specie>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CardiacSeptumNativeCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PituitaryGlandCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MitogenicSignalingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#UreteralCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Leukocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Leukocyte> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000738
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Library>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#GermLineCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MononuclearCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MononuclearCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000842
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NextSeq>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Hypothermic>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#LymphocyteOfTlineage>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Cavity>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Bone>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ExtraembryonicCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AbnormalCellsIsolated>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Downloads>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DiseaseOfMetabolism>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Smartseq2>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Syndrome>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#InnateLymphoidCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#InnateLymphoidCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0001065
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Gland>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CellLines>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Veins>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HaploidCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Structure>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Mendelian>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AutosomalRecessive>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Tissue>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#LowerUrinaryTractCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MotileCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SomaticCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OrganismPart>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Animal>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SecretoryCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DiseaseOfMentalHealth>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MuscularTissue>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Monocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Monocyte> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000576
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Monocyte> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000860
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MuscleCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DendriticCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DendriticCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000451
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#GeneticDisease>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NeurologicDisease>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OtherSequencing>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NonMamalialOrganismPart>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Kingdom>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BarrierCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#LymphocyteOfBlineage>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NitrogenFixingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#InstrumentModel>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AbnormalCells>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Fungal>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Optimus>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NonGranularLeukocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OrganPart>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NovaSeq>
+owl:Thing
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Results>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#DiseaseByInfectiousAgent>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AnucleateCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ConnectiveTissueCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Arteries>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ExocrineGland>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Erythrocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ExperimentallyModified>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NativeCells>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticLineageRestrictedProgenitorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SequencingLibrary>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticMultipotentProgenitorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticMultipotentProgenitorCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000837
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Junction>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HiSeq>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Chromosomal>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Fluid>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AnalysisProtocol>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EukaryoticCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#AbnormalCellsGrouped>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ApoptosisFatedCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CirculatingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#NotochordalCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#EndocrineGland>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Preprocessing>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Organ>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#SensoryReceptorCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BoneMarrowHematopoieticCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BoneMarrowHematopoieticCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_1001610
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#CiliatedCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#MetabolisingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Method>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#PeripheralBloodMesothelialCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticStemCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticStemCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0002033
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#HematopoieticStemCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000037
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Project>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Granulocyte>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Specimen>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Disease>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#Preservation>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BloodCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#BloodCell> <http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OR.hasURI> http://purl.obolibrary.org/obo/CL_0000081
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#OxygenAccumulatingCell>
+<http://www.semanticweb.org/alicia/ontologies/2020/8/singleCellRepositories#ConnectiveTissue>
+=================================================================================================================
