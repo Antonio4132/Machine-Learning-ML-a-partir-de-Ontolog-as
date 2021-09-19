@@ -1,0 +1,1572 @@
+PROJECT_ID_0070
+SPR.hasOrganismPart Kidney
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0071
+SPR.hasOrganismPart Root
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Protoplast
+SPR.hasSpecie ArabidopsisThaliana
+
+PROJECT_ID_0072
+SPR.hasOrganismPart Root
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Protoplast
+SPR.hasSpecie ArabidopsisThaliana
+
+PROJECT_ID_0073
+SPR.hasOrganismPart Testes
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0074
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart CortexOfKidney
+SPR.hasOrganismPart JuxtamedullaryCortex
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType NotApplicable
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0105
+SPR.hasOrganismPart GanglionicEminence
+SPR.hasLibrary Smart-like
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0106
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart Retina
+SPR.hasLibrary Smart-like
+SPR.hasCellType RetinalCell
+SPR.hasCellType EmbryonicStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0107
+SPR.hasOrganismPart Brain
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0108
+SPR.hasOrganismPart Brain
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0109
+SPR.hasOrganismPart Lung
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0185
+SPR.hasOrganismPart Heart
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType CardiacNonMyocyte
+SPR.hasCellType Cardiomyocyte
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0064
+SPR.hasOrganismPart NeuralTube
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite TrailerRegion
+SPR.hasBiopsySite LeaderRegion
+SPR.hasBiopsySite NotApplicable
+SPR.hasBiopsySite Front
+SPR.hasCellType NeuralCrestCell
+SPR.hasSpecie GallusGallus
+
+PROJECT_ID_0186
+SPR.hasOrganismPart Blood
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasDisease Control
+SPR.hasDisease COVID-19
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0065
+SPR.hasOrganismPart Habenula
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0066
+SPR.hasOrganismPart GanglionicEminence
+SPR.hasLibrary Smart-like
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0100
+SPR.hasOrganismPart Lung
+SPR.hasLibrary Smart-like
+SPR.hasCellType EpithelialCell
+SPR.hasDisease IdiopathicPulmonaryFibrosis
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0067
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0101
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType HematopoieticStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0068
+SPR.hasOrganismPart BoneMarrow
+SPR.hasOrganismPart AsciticFluid
+SPR.hasLibrary Smart-like
+SPR.hasCellType PlasmaCell
+SPR.hasDisease MultipleMyeloma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0102
+SPR.hasOrganismPart UmbilicalCordBlood
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType PreConventionalDendriticCell
+SPR.hasCellType ConventionalDendriticCell
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0069
+SPR.hasOrganismPart Blood
+SPR.hasCellType CD4+HelperTcell
+SPR.hasDisease Control
+SPR.hasDisease HIV
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0103
+SPR.hasOrganismPart PellucidZone
+SPR.hasOrganismPart PrimitiveStreak
+SPR.hasOrganismPart Epiblast
+SPR.hasLibrary Smart-like
+SPR.hasCellType EmbryonicCell
+SPR.hasCellType Epiblast
+SPR.hasDisease Control
+SPR.hasSpecie GallusGallus
+
+PROJECT_ID_0104
+SPR.hasOrganismPart Skin
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0180
+SPR.hasOrganismPart RespiratoryAirway
+SPR.hasOrganismPart LungBud
+SPR.hasOrganismPart EpitheliumOfTrachea
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Bud
+SPR.hasBiopsySite RespiratoryAirway
+SPR.hasBiopsySite NotApplicable
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0181
+SPR.hasOrganismPart RectoSigmoidJunction
+SPR.hasOrganismPart Caecum
+SPR.hasOrganismPart SigmoidColon
+SPR.hasOrganismPart Colon
+SPR.hasOrganismPart AscendingColon
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Tumor
+SPR.hasBiopsySite NormalTissueAdjacentToNeoplasm
+SPR.hasDisease ColorectalCancer
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0060
+SPR.hasOrganismPart WholeOrganism
+SPR.hasCellType Spheroplast
+SPR.hasSpecie SaccharomycesCerevisiae
+
+PROJECT_ID_0182
+SPR.hasOrganismPart Pancreas
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Tumor
+SPR.hasBiopsySite NormalTissueAdjacentToTumor
+SPR.hasBiopsySite NormalTissue
+SPR.hasDisease Control
+SPR.hasDisease PancreaticCancer
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0061
+SPR.hasOrganismPart VentralMesenchymalPad
+SPR.hasOrganismPart PeriUrethralMesenchyme
+SPR.hasSpecie RattusNorvegicus
+
+PROJECT_ID_0183
+SPR.hasOrganismPart PeritonealFluid
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasCellType Fibroblast
+SPR.hasCellType EpithelialTumorCell
+SPR.hasDisease OvarianCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0062
+SPR.hasOrganismPart Hippocampus
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType MicroglialCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0184
+SPR.hasOrganismPart Hemolymph
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Hemocyte
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0063
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType GranulocyteMonocyteProgenitorCell
+SPR.hasCellType BasophilMastProgenitorCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0053
+SPR.hasOrganismPart BreastEpithelium
+SPR.hasCellType MyoepithelialCellOfMammaryGland
+SPR.hasCellType LuminalEpithelialCellOfMammaryGland
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0174
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0054
+SPR.hasOrganismPart IsletOfLangerhans
+SPR.hasLibrary Smart-like
+SPR.hasDisease Control
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0175
+SPR.hasOrganismPart SmallIntestine
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite SmallIntestine
+SPR.hasCellType IntestinalEpithelialCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0055
+SPR.hasOrganismPart Root
+SPR.hasLibrary Drop-seq
+SPR.hasCellType Protoplast
+SPR.hasSpecie ArabidopsisThaliana
+
+PROJECT_ID_0176
+SPR.hasOrganismPart Lung
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Monocyte
+SPR.hasCellType LungMacrophage
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0056
+SPR.hasOrganismPart Brain
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType OlfatoryProjectionNeuron
+SPR.hasCellType Astrocyte
+SPR.hasCellType Neuron
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0177
+SPR.hasOrganismPart Spleen
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType ReticularCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0057
+SPR.hasOrganismPart BoneMarrow
+SPR.hasCellType HematopoieticMultipotentProgenitorCell
+SPR.hasCellType LongTermHematopoieticStemCell
+SPR.hasCellType HematopoieticStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0178
+SPR.hasOrganismPart InnerCellMass
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType InducedPluripotentStemCell
+SPR.hasCellType EmbryonicStemCell
+SPR.hasCellType Epiblast
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0058
+SPR.hasOrganismPart UmbilicalCordBlood
+SPR.hasCellType CommonLymphoidProgenitor
+SPR.hasCellType GranulocyteMonocyteProgenitorCell
+SPR.hasCellType EarlyLymphoidProgenitor
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0179
+SPR.hasOrganismPart ExtensorDigitorumLongus
+SPR.hasOrganismPart SmallIntestine
+SPR.hasOrganismPart Brain
+SPR.hasOrganismPart Kidney
+SPR.hasOrganismPart Lung
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Colon
+SPR.hasOrganismPart SoleusMuscle
+SPR.hasOrganismPart Testes
+SPR.hasOrganismPart Liver
+SPR.hasOrganismPart Heart
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType EndothelialCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0059
+SPR.hasOrganismPart HeadKidney
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType Neutrophil
+SPR.hasCellType MarrowDerivedBcell
+SPR.hasCellType MatureTcell
+SPR.hasCellType MyeloidCell
+SPR.hasCellType HematopoieticStemCell
+SPR.hasCellType ThymicTcell
+SPR.hasCellType Thrombocyte
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0170
+SPR.hasOrganismPart Tonsil
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType ExtraThymicAireExpressingCells
+SPR.hasDisease Tonsilitis
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0050
+SPR.hasLibrary Smart-like
+SPR.hasCellType StemCell
+SPR.hasSpecie SchistosomaMansoni
+
+PROJECT_ID_0171
+SPR.hasOrganismPart Kidney
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart Liver
+SPR.hasOrganismPart YolkSac
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0051
+SPR.hasOrganismPart Hemolymph
+SPR.hasCellType Hemocyte
+SPR.hasSpecie AnophelesGambiae
+
+PROJECT_ID_0172
+SPR.hasOrganismPart Skin
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0052
+SPR.hasOrganismPart Skin
+SPR.hasDisease Melanoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0173
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart LymphNode
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite Neoplasm
+SPR.hasBiopsySite NormalTissue
+SPR.hasBiopsySite NormalTissueAdjacentToNeoplasm
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0163
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart NotApplicable
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType NotApplicable
+SPR.hasCellType DopaminergicNeuron
+SPR.hasDisease Control
+SPR.hasDisease ParkinsonsDisease
+SPR.hasDisease NotApplicable
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0042
+SPR.hasOrganismPart Hemolymph
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Hemocyte
+SPR.hasSpecie AnophelesGambiae
+
+PROJECT_ID_0164
+SPR.hasOrganismPart MesentericLymphNode
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Colon
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart LymphNode
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType CD4+AlphaBetaMemoryTCell
+SPR.hasCellType CD4+CD25+AlphaBetaRegulatoryTcell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0043
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-like
+SPR.hasCellType BoneMarrowCell
+SPR.hasDisease Control
+SPR.hasDisease RefractoryAnemiaWithExcessBlasts
+SPR.hasDisease MyelodysplasticSyndrome
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0165
+SPR.hasOrganismPart SpinalCord
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite CervicalVertebrae
+SPR.hasBiopsySite ThoracicVertebrae
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0044
+SPR.hasOrganismPart BreastEpithelium
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite Basal
+SPR.hasBiopsySite Luminal
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0166
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0045
+SPR.hasOrganismPart Lung
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0167
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0046
+SPR.hasOrganismPart SmallIntestine
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EpithelialCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0168
+SPR.hasOrganismPart CardiacVentricle
+SPR.hasLibrary Smart-like
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0047
+SPR.hasOrganismPart SmallIntestine
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EpithelialCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0169
+SPR.hasOrganismPart CardiacVentricle
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0048
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie PlasmodiumBerghei
+
+PROJECT_ID_0049
+SPR.hasOrganismPart Brain
+SPR.hasLibrary Smart-like
+SPR.hasDisease Glioblastoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0160
+SPR.hasOrganismPart EyeDisc
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0161
+SPR.hasOrganismPart EyeDisc
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0040
+SPR.hasOrganismPart Blood
+SPR.hasLibrary 10X5v2Sequencing
+SPR.hasDisease Control
+SPR.hasDisease COVID-19
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0162
+SPR.hasOrganismPart AsciticFluid
+SPR.hasLibrary Smart-like
+SPR.hasCellType NeoplasticCell
+SPR.hasCellType StromalCell
+SPR.hasDisease OvarianCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0041
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Drop-seq
+SPR.hasCellType Hemocyte
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0039
+SPR.hasOrganismPart Lung
+SPR.hasLibrary Seq-well
+SPR.hasDisease LungCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0031
+SPR.hasOrganismPart Autopod
+SPR.hasLibrary Drop-seq
+SPR.hasBiopsySite PedalDigit
+SPR.hasDisease Control
+SPR.hasSpecie GallusGallus
+
+PROJECT_ID_0152
+SPR.hasOrganismPart Dermis
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType FibroblastOfDermis
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0032
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie PlasmodiumBerghei
+
+PROJECT_ID_0153
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart WholeOrganism
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie CallithrixJacchus
+
+PROJECT_ID_0033
+SPR.hasOrganismPart WholeOrganism
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0154
+SPR.hasOrganismPart Spleen
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType ReticularCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0034
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie PlasmodiumFalciparum
+
+PROJECT_ID_0155
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart Dermis
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite Tail
+SPR.hasBiopsySite Nan
+SPR.hasCellType Fibroblast
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0035
+SPR.hasOrganismPart Root
+SPR.hasLibrary Drop-seq
+SPR.hasCellType Protoplast
+SPR.hasSpecie ArabidopsisThaliana
+
+PROJECT_ID_0156
+SPR.hasOrganismPart Thymus
+SPR.hasOrganismPart Kidney
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Gill
+SPR.hasOrganismPart Gut
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType BloodCell
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0036
+SPR.hasOrganismPart IlealMucosa
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite NormalTissueAdjacentToInflammation
+SPR.hasBiopsySite Inflammation
+SPR.hasDisease CrohnsDisease
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0157
+SPR.hasOrganismPart Lung
+SPR.hasLibrary Drop-seq
+SPR.hasDisease Control
+SPR.hasDisease Fibrosis
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0037
+SPR.hasOrganismPart Root
+SPR.hasLibrary Drop-seq
+SPR.hasCellType Protoplast
+SPR.hasSpecie ArabidopsisThaliana
+
+PROJECT_ID_0158
+SPR.hasOrganismPart Aorta
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType AorticEndothelialCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0038
+SPR.hasOrganismPart NasalCavityMucosa
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0159
+SPR.hasOrganismPart Intestine
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0150
+SPR.hasOrganismPart Dermis
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType FibroblastOfDermis
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0030
+SPR.hasOrganismPart PedalDigit
+SPR.hasOrganismPart Autopod
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite NotApplicable
+SPR.hasBiopsySite Tip
+SPR.hasDisease Control
+SPR.hasSpecie GallusGallus
+
+PROJECT_ID_0151
+SPR.hasOrganismPart Dermis
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType FibroblastOfDermis
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0149
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType InducedPluripotentStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0028
+SPR.hasOrganismPart Kidney
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite Neoplasm
+SPR.hasDisease RenalCellCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0029
+SPR.hasOrganismPart Bronchiole
+SPR.hasOrganismPart Lung
+SPR.hasOrganismPart MiddleLobeOfRightLung
+SPR.hasLibrary Smart-like
+SPR.hasCellType EpithelialCell
+SPR.hasCellType NotApplicable
+SPR.hasDisease LungCarcinoma
+SPR.hasDisease BronchioalveolarCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0141
+SPR.hasOrganismPart Dermis
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType InducedNeuralBorderStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0020
+SPR.hasInstrument IlluminaHiSeq2000
+SPR.hasOrganismPart Pancreas
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite IsletOfLangerhans
+SPR.hasDisease Control
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0142
+SPR.hasOrganismPart Hindbrain
+SPR.hasLibrary Smart-seq2
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0021
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Kidney
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite RenalMedulla
+SPR.hasBiopsySite CortexOfKidney
+SPR.hasBiopsySite Ureter
+SPR.hasBiopsySite RenalPelvis
+SPR.hasCellType KidneyCell
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasDisease StrokeDisorder
+SPR.hasDisease CardiacArrest
+SPR.hasDisease ReversibleCerebralVasoconstrictionSyndrome
+SPR.hasDisease AcquiredAneurysmalSubarachnoidHemorrhage
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0143
+SPR.hasOrganismPart Hindbrain
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EmbryonicStemCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0022
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Colon
+SPR.hasLibrary 10X3v2Sequencing
+SPR.hasLibrary Smart-seq
+SPR.hasBiopsySite LaminaPropriaOfMucosaOfColon
+SPR.hasCellType StromalCell
+SPR.hasAnalysisProtocol Optimus_v1.3.2
+SPR.hasDisease Control
+SPR.hasDisease UlcerativeColitis
+SPR.hasSpecie HomoSapiens
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0144
+SPR.hasOrganismPart Thymus
+SPR.hasLibrary Drop-seq
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasDisease Control
+SPR.hasDisease FetalGrowthRestriction
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0023
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasPreservation CryopreservationOther
+SPR.hasOrganismPart Brain
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Sci-RNA-seq
+SPR.hasLibrary CEL-seq2
+SPR.hasLibrary Drop-seq
+SPR.hasLibrary Smart-seq2
+SPR.hasLibrary DroNc-seq
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasLibrary InDrop
+SPR.hasLibrary Seq-well
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Cortex
+SPR.hasBiopsySite VenousBlood
+SPR.hasCellType MononuclearCell
+SPR.hasAnalysisProtocol Smartseq2_v2.4.0
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0145
+SPR.hasOrganismPart Testes
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0024
+SPR.hasInstrument IlluminaNovaSeq6000
+SPR.hasOrganismPart Trachea
+SPR.hasOrganismPart Kidney
+SPR.hasOrganismPart Pancreas
+SPR.hasOrganismPart AdiposeTissue
+SPR.hasOrganismPart Diaphragm
+SPR.hasOrganismPart Muscle
+SPR.hasOrganismPart Thymus
+SPR.hasOrganismPart LargeIntestine
+SPR.hasOrganismPart Brain
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Lung
+SPR.hasOrganismPart Bladder
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart BoneTissue
+SPR.hasOrganismPart Liver
+SPR.hasOrganismPart Heart
+SPR.hasOrganismPart MammaryGland
+SPR.hasOrganismPart Tongue
+SPR.hasLibrary Smart-seq2
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0146
+SPR.hasOrganismPart Allantois
+SPR.hasOrganismPart YolkSac
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EndothelialCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0025
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasPreservation CryopreservationInLiquidNitrogenDeadTissue
+SPR.hasOrganismPart Kidney
+SPR.hasLibrary 10X5v2Sequencing
+SPR.hasBiopsySite Cortex
+SPR.hasCellType Monocyte
+SPR.hasCellType Fibroblast
+SPR.hasCellType EpithelialCell
+SPR.hasCellType EndothelialCell
+SPR.hasCellType MyofibroblastCell
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasDisease ProstateCancer
+SPR.hasDisease SyndromicDyslipidemia
+SPR.hasDisease GastroesophagealRefluxDisease
+SPR.hasDisease KidneyCancer
+SPR.hasDisease VentricularTachycardia
+SPR.hasDisease BenignProstaticHyperplasia
+SPR.hasDisease ObstructiveSleepApnea
+SPR.hasDisease AcuteKidneyTubularNecrosis
+SPR.hasDisease EnterococcusFaecalisInfection
+SPR.hasDisease Hyperlipidemia
+SPR.hasDisease DepressiveDisorder
+SPR.hasDisease IrritableBowelSyndrome
+SPR.hasDisease LymeDisease
+SPR.hasDisease HiatusHernia
+SPR.hasDisease NonAlcoholicFattyLiverDisease
+SPR.hasDisease AcousticNeuroma
+SPR.hasDisease AnxietyDisorder
+SPR.hasDisease PureAutonomicFailure
+SPR.hasDisease HereditaryHemochromatosis
+SPR.hasDisease PericardialEffusion
+SPR.hasDisease EssentialHypertension
+SPR.hasDisease AdrenalCortexAdenoma
+SPR.hasDisease Diverticulitis
+SPR.hasDisease Arthritis
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0147
+SPR.hasOrganismPart LaminaPropiaOfSmallIntestine
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Macrophage
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0026
+SPR.hasInstrument IlluminaNovaSeq6000
+SPR.hasOrganismPart presumptiveGut
+SPR.hasOrganismPart Endoderm
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite VisceralEndoderm
+SPR.hasBiopsySite ParietalEndoderm
+SPR.hasBiopsySite DefinitiveEndoderm
+SPR.hasBiopsySite YolkSacEndoderm
+SPR.hasCellType EndodermalCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0148
+SPR.hasOrganismPart Mesoderm
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite AortaGonadMesonephrosRegion
+SPR.hasCellType EndothelialCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0027
+SPR.hasInstrument IlluminaNovaSeq6000
+SPR.hasOrganismPart Eye
+SPR.hasLibrary 10x3v3Sequencing
+SPR.hasBiopsySite FoveaCentralis
+SPR.hasBiopsySite Retina
+SPR.hasCellType Neuron
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0140
+SPR.hasOrganismPart Stomach
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType PepticCell
+SPR.hasCellType StemCellOfGastricGland
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0017
+SPR.hasInstrument IlluminaNextSeq500
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Epidermis
+SPR.hasCellType DendriticCell
+SPR.hasCellType EmbryonicFibroblast
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasModel ImmuneSystem
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0138
+SPR.hasOrganismPart AdiposeTissue
+SPR.hasOrganismPart NotApplicable
+SPR.hasOrganismPart MammaryGland
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType NotApplicable
+SPR.hasCellType Preadipocyte
+SPR.hasCellType Adipocyte
+SPR.hasDisease Control
+SPR.hasDisease NotApplicable
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0018
+SPR.hasInstrument IlluminaNextSeq500
+SPR.hasOrganismPart Pancreas
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite IsletOfLangerhans
+SPR.hasAnalysisProtocol Smartseq2_v2.4.0
+SPR.hasAnalysisProtocol Smartseq2_v2.3.0
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0139
+SPR.hasOrganismPart InnerCellMass
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EmbryonicStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0019
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite Blastocyst
+SPR.hasCellType InhibitoryInterneuron
+SPR.hasAnalysisProtocol Smartseq2_v2.4.0
+SPR.hasAnalysisProtocol Smartseq2_v2.3.0
+SPR.hasDisease Control
+SPR.hasModel StemCell
+SPR.hasModel Brain
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0097
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType HematopoieticMultipotentProgenitorCell
+SPR.hasCellType LongTermHematopoieticStemCell
+SPR.hasCellType CommonMyeloidProgenitor
+SPR.hasCellType HematopoieticStemCell
+SPR.hasCellType MegakaryocyteErythroidProgenitorCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0130
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasDisease Influenza
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0010
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Liver
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite CaudateLobe
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0098
+SPR.hasOrganismPart Pancreas
+SPR.hasLibrary Smart-like
+SPR.hasCellType IsletOfLangerhans
+SPR.hasDisease Control
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasDisease Type1DiabetesMellitus
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0131
+SPR.hasOrganismPart Dermis
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite Tail
+SPR.hasCellType Fibroblast
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0011
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasInstrument IlluminaHiSeqX
+SPR.hasPreservation HypothermicPreservationMediaAt2-8C
+SPR.hasPreservation CryopreservationOther
+SPR.hasOrganismPart Esophagus
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Lung
+SPR.hasLibrary cDNALibraryConstruction
+SPR.hasLibrary DNALibraryConstruction
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite LowerLobeOfRightLung
+SPR.hasBiopsySite LungParenchyma
+SPR.hasBiopsySite EsophagusMucosa
+SPR.hasBiopsySite LowerLobeOfLeftLung
+SPR.hasCellType EpithelialCellOfEsophagus
+SPR.hasCellType Splenocyte
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0099
+SPR.hasOrganismPart Brain
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite Tumor
+SPR.hasDisease Glioblastoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0132
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType Plasmablast
+SPR.hasCellType NaiveBcell
+SPR.hasCellType MemoryBcell
+SPR.hasCellType TransitionalStageBcell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0012
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Tumor
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart LymphNode
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType InnateLymphoidCell
+SPR.hasCellType CD11b+Macrophages/Monocytes
+SPR.hasCellType Tcell
+SPR.hasCellType Cancer-associatedFibroblasts(CAFs)
+SPR.hasCellType CD11c+DC
+SPR.hasCellType Bcell
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasCellType CD11b+CD11c+DC
+SPR.hasCellType CD31+Endothelial
+SPR.hasDisease Melanoma
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0133
+SPR.hasOrganismPart Spleen
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Leukocyte
+SPR.hasDisease Control
+SPR.hasDisease AcuteLymphoblasticLeukemia
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0013
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasPreservation CryopreservationOther
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite PeripheralBloodMononuclearCell
+SPR.hasCellType EffectorMemoryCD8+AlphaBetaTCellTerminallyDifferentiated
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasDisease Control
+SPR.hasDisease AsymptomaticDengue
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0134
+SPR.hasOrganismPart UmbilicalCordBlood
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType Leukocyte
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0014
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasPreservation CryopreservationOfLiveCellsInLiquidNitrogen
+SPR.hasOrganismPart HematopoieticSystem
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite BoneMarrow
+SPR.hasCellType CD34+CD38-HematopoieticStemCell
+SPR.hasAnalysisProtocol Optimus_v1.3.1
+SPR.hasDisease Control
+SPR.hasModel HematopoieticSystem
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0135
+SPR.hasOrganismPart Skin
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType InducedPluripotentStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0015
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasInstrument IlluminaHiSeq2000
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Placenta
+SPR.hasOrganismPart Blood
+SPR.hasOrganismPart Decidua
+SPR.hasLibrary Smart-seq2
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType NaturalKillerCell
+SPR.hasCellType HLAG+
+SPR.hasCellType Tcell
+SPR.hasCellType Live
+SPR.hasCellType Leukocyte
+SPR.hasCellType PeripheralBloodMononuclearCell
+SPR.hasCellType MyeloidCell
+SPR.hasCellType Epcam+
+SPR.hasCellType CD45-
+SPR.hasAnalysisProtocol Optimus_v1.3.1
+SPR.hasAnalysisProtocol Optimus_v1.3.2
+SPR.hasAnalysisProtocol Smartseq2_v2.4.0
+SPR.hasAnalysisProtocol Optimus_v1.3.3
+SPR.hasAnalysisProtocol Smartseq2_v2.3.0
+SPR.hasDisease Control
+SPR.hasDisease OrofaciodigitalSyndromeVIII
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0136
+SPR.hasOrganismPart Lung
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Tumor
+SPR.hasBiopsySite NormalTissueAdjacentToTumor
+SPR.hasDisease LungCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0016
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasInstrument IlluminaNextSeq500
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Kidney
+SPR.hasLibrary InDrop
+SPR.hasBiopsySite CortexOfKidney
+SPR.hasCellType Monocyte
+SPR.hasCellType Fibroblast
+SPR.hasCellType EpithelialCell
+SPR.hasCellType EndothelialCell
+SPR.hasCellType MyofibroblastCell
+SPR.hasDisease HemolyticUremicSyndrome
+SPR.hasDisease EndStageRenalFailure
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0137
+SPR.hasOrganismPart AdiposeTissue
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType MesenchymalStemCellOfAdipose
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0090
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart Skin
+SPR.hasOrganismPart Neocortex
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite NotApplicable
+SPR.hasBiopsySite CorticalLikeVentricle
+SPR.hasBiopsySite WholeCerebralOrganoid
+SPR.hasCellType InducedPluripotentStemCell
+SPR.hasCellType Neuron
+SPR.hasCellType EmbryonicStemCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0091
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-like
+SPR.hasCellType CirculatingTumorCell
+SPR.hasDisease BreastCancer
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0092
+SPR.hasOrganismPart Breast
+SPR.hasOrganismPart LymphNode
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite Tumor
+SPR.hasBiopsySite Metastasis
+SPR.hasDisease BreastCancer
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0093
+SPR.hasOrganismPart BoneMarrow
+SPR.hasCellType MononuclearCellOfBoneMarrow
+SPR.hasDisease Control
+SPR.hasDisease MyeloidLeukemia
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0094
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary Smart-like
+SPR.hasSpecie CaenorhabditisElegans
+
+PROJECT_ID_0095
+SPR.hasOrganismPart Skin
+SPR.hasLibrary Smart-like
+SPR.hasDisease Melanoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0096
+SPR.hasOrganismPart IsletOfLangerhans
+SPR.hasDisease Control
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0127
+SPR.hasOrganismPart CardiacVentricle
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasCellType CardiacNonMyocyte
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0006
+SPR.hasInstrument IlluminaNextSeq500
+SPR.hasOrganismPart HematopoieticSystem
+SPR.hasLibrary MARS-seq
+SPR.hasBiopsySite BoneMarrow
+SPR.hasCellType PlasmaCell
+SPR.hasDisease OsteoarthritisHip
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0128
+SPR.hasOrganismPart Lung
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Neoplasm
+SPR.hasBiopsySite NormalTissueAdjacentToNeoplasm
+SPR.hasCellType EndothelialCell
+SPR.hasDisease LungCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0007
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Blood
+SPR.hasLibrary CITE-seq
+SPR.hasCellType PeripheralBloodMononuclearCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0129
+SPR.hasOrganismPart InnerCellMass
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0008
+SPR.hasInstrument IlluminaHiSeqX
+SPR.hasOrganismPart ImmuneSystem
+SPR.hasOrganismPart Blood
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite BoneMarrow
+SPR.hasBiopsySite UmbilicalCordBlood
+SPR.hasCellType CordBloodHematopoieticStemCell
+SPR.hasCellType BoneMarrowHematopoieticCell
+SPR.hasAnalysisProtocol Optimus_v1.3.2
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0009
+SPR.hasInstrument IlluminaNextSeq500
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Drop-seq
+SPR.hasLibrary DroNc-seq
+SPR.hasBiopsySite VenousBlood
+SPR.hasDisease Control
+SPR.hasModel StemCell
+SPR.hasModel Blood
+SPR.hasModel Heart
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0086
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Seq-well
+SPR.hasCellType PeripheralBloodMononuclearCell
+SPR.hasDisease Control
+SPR.hasDisease COVID-19
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0120
+SPR.hasOrganismPart Thymus
+SPR.hasLibrary Smart-like
+SPR.hasCellType MedullaryThymicEpithelialCells
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0087
+SPR.hasOrganismPart Oocyte
+SPR.hasOrganismPart InnerCellMass
+SPR.hasOrganismPart 8CellStageEmbryo
+SPR.hasOrganismPart Zygote
+SPR.hasOrganismPart Morula
+SPR.hasOrganismPart Blastocyst
+SPR.hasOrganismPart 2CellStageEmbryo
+SPR.hasOrganismPart 4CellStageEmbryo
+SPR.hasLibrary Smart-seq
+SPR.hasCellType Oocyte
+SPR.hasCellType BlastodermCell
+SPR.hasCellType Zygote
+SPR.hasCellType Morula
+SPR.hasCellType TotipotentStemCell
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0121
+SPR.hasOrganismPart AdiposeTissue
+SPR.hasLibrary Smart-like
+SPR.hasCellType MesenchymalStemCellOfAdipose
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0000
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Brain
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Cortex
+SPR.hasCellType Neuron
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0088
+SPR.hasOrganismPart Tonsil
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType NaturalKillerCell
+SPR.hasCellType Group1InnateLymphoidCell
+SPR.hasCellType Group2InnateLymphoidCell
+SPR.hasCellType Group3InnateLymphoidCell
+SPR.hasDisease ObstructiveSleepApnea
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0122
+SPR.hasOrganismPart Spleen
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0001
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Pancreas
+SPR.hasLibrary InDrop
+SPR.hasCellType PancreaticPPCell
+SPR.hasDisease Control
+SPR.hasDisease Type2DiabetesMellitus
+SPR.hasSpecie HomoSapiens
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0089
+SPR.hasOrganismPart Cortex
+SPR.hasOrganismPart PrimaryVisualArea
+SPR.hasLibrary Smart-like
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0123
+SPR.hasOrganismPart Retina
+SPR.hasLibrary Smart-like
+SPR.hasCellType RetinalConeCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0002
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Embryo
+SPR.hasLibrary 10X3v1Sequencing
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0124
+SPR.hasOrganismPart WholeOrganism
+SPR.hasLibrary Smart-like
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0003
+SPR.hasInstrument IlluminaHiSeq4000
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart Lung
+SPR.hasOrganismPart MediastinalLymphNode
+SPR.hasOrganismPart HematopoieticSystem
+SPR.hasOrganismPart Blood
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite BoneMarrow
+SPR.hasBiopsySite VenousBlood
+SPR.hasBiopsySite MediastinalLymphNode
+SPR.hasBiopsySite LeftLateralBasalBronchopulmonarySegment
+SPR.hasCellType Tcell
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasDisease Hypertension
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0125
+SPR.hasCellType RetinalGanglionCell
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0004
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Eye
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite RetinalNeuralLayer
+SPR.hasAnalysisProtocol Optimus_v1.3.5
+SPR.hasDisease Control
+SPR.hasDisease Cataract
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0126
+SPR.hasOrganismPart AdiposeTissue
+SPR.hasLibrary Smart-seq2
+SPR.hasDisease MyxoidLiposarcoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0005
+SPR.hasInstrument IlluminaHiSeq2500
+SPR.hasOrganismPart Skin
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Epidermis
+SPR.hasCellType NeuralCell
+SPR.hasAnalysisProtocol Optimus_v1.3.1
+SPR.hasAnalysisProtocol Optimus_v1.3.2
+SPR.hasDisease Control
+SPR.hasModel Brain
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0080
+SPR.hasOrganismPart PigmentedLayerOfRetinaAndOpticChoroid
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasBiopsySite Retina
+SPR.hasBiopsySite MaculaLutea
+SPR.hasDisease Control
+SPR.hasDisease MacularDegeneration
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0081
+SPR.hasOrganismPart Retina
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasBiopsySite Retina
+SPR.hasBiopsySite MaculaLutea
+SPR.hasCellType Neuron
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0082
+SPR.hasOrganismPart Neoplasm
+SPR.hasOrganismPart Blood
+SPR.hasOrganismPart Tonsil
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite OralCavity
+SPR.hasBiopsySite Larynx
+SPR.hasBiopsySite NotApplicable
+SPR.hasBiopsySite Gingiva
+SPR.hasBiopsySite BuccalMucosa
+SPR.hasBiopsySite Tonsil
+SPR.hasBiopsySite Mandible
+SPR.hasBiopsySite Tongue
+SPR.hasCellType Leukocyte
+SPR.hasDisease Control
+SPR.hasDisease HeadAndNeckSquamousCellCarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0083
+SPR.hasOrganismPart LymphNode
+SPR.hasOrganismPart Hemolymph
+SPR.hasLibrary Drop-seq
+SPR.hasSpecie DrosophilaMelanogaster
+
+PROJECT_ID_0084
+SPR.hasOrganismPart Epidermis
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite Tail
+SPR.hasCellType Keratinocyte
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0085
+SPR.hasLibrary 10xv3Sequencing
+SPR.hasCellType PeripheralBloodMononuclearCell
+SPR.hasDisease Control
+SPR.hasDisease Influenza
+SPR.hasDisease COVID-19
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0116
+SPR.hasOrganismPart InnerCellMass
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EmbryonicStemCell
+SPR.hasDisease Control
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0117
+SPR.hasOrganismPart Testes
+SPR.hasOrganismPart HeadKidney
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType BloodCell
+SPR.hasCellType MixedCellTypes
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0118
+SPR.hasOrganismPart SmallIntestine
+SPR.hasLibrary Smart-like
+SPR.hasCellType NeuralCrestDerivedCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0119
+SPR.hasLibrary Smart-like
+SPR.hasCellType EmbryonicStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0075
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-like
+SPR.hasBiopsySite IliacCrest
+SPR.hasCellType MesenchymalStemCellOfTheBoneMarrow
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0076
+SPR.hasOrganismPart Ileum
+SPR.hasOrganismPart Colon
+SPR.hasOrganismPart Rectum
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasBiopsySite NormalTissueAdjacentToNeoplasm
+SPR.hasCellType IntestinalEpithelialCell
+SPR.hasDisease CecumAdenocarcinoma
+SPR.hasDisease SmallIntestineNeuroendocrineTumor
+SPR.hasDisease RectumAdenocarcinoma
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0077
+SPR.hasOrganismPart LungParenchyma
+SPR.hasLibrary Drop-seq
+SPR.hasBiopsySite UpperLobeOfLeftLung
+SPR.hasBiopsySite Bronchus
+SPR.hasDisease ChronicObstructivePulmonaryDisease
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0110
+SPR.hasOrganismPart Prostate
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType EpithelialCell
+SPR.hasDisease ProstateCancer
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0078
+SPR.hasOrganismPart Liver
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType Hepatocyte
+SPR.hasCellType NotApplicable
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0111
+SPR.hasOrganismPart Ovary
+SPR.hasLibrary Smart-seq2
+SPR.hasBiopsySite OvarianCortex
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0079
+SPR.hasOrganismPart Testes
+SPR.hasLibrary 10Xv2Sequencing
+SPR.hasDisease Control
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0112
+SPR.hasPreservation Fresh
+SPR.hasOrganismPart BoneMarrow
+SPR.hasLibrary Smart-like
+SPR.hasCellType DormantHematopoieticStemCell
+SPR.hasCellType HematopoieticStemCell
+SPR.hasSpecie MusMusculus
+
+PROJECT_ID_0113
+SPR.hasOrganismPart Spleen
+SPR.hasOrganismPart Testes
+SPR.hasOrganismPart NotApplicable
+SPR.hasOrganismPart Heart
+SPR.hasLibrary Smart-seq2
+SPR.hasSpecie DanioRerio
+
+PROJECT_ID_0114
+SPR.hasOrganismPart Blood
+SPR.hasLibrary Smart-seq2
+SPR.hasCellType CD8+AlphaBetaTcell
+SPR.hasDisease HepatitisC
+SPR.hasSpecie HomoSapiens
+
+PROJECT_ID_0115
+SPR.hasOrganismPart Spleen
+SPR.hasLibrary Smart-like
+SPR.hasCellType EffectorMemoryCD4+AlphaBetaTCell
+SPR.hasCellType NaiveThymusDerivedCD4+AlphaBetaTcell
+SPR.hasSpecie MusMusculus
+

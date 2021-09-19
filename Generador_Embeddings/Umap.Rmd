@@ -1,0 +1,128 @@
+---
+title: "Embeddings_Umap"
+author: "Antonio Arques Acosta"
+date: "13/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyr)
+library(rlang)
+library(dplyr)
+library(umap)
+library(word2vec)
+library(sjmisc)
+library(keras)
+
+```
+
+```{r}
+set.seed(123)
+embeddings <- read.csv("projects_kv.csv")
+row.names.remove <- c("171")
+embeddings <- embeddings[!(row.names(embeddings) %in% row.names.remove), ]
+
+species <- read.csv("species.csv")
+colnames(species) <- c("x")
+species <- separate(species,c("x"), into = c("project","specie"),sep = " ")
+species <- species[order(species$project),]
+
+head(species)
+
+```
+
+```{r}
+model <- keras_model_sequential() 
+model %>% 
+    layer_dense(units = 20, activation = "relu", input_shape = c(10), kernel_initializer='he_uniform') %>% 
+    layer_dense(units = 1, activation = "sigmoid")
+
+```
+
+```{r}
+model %>% compile(
+  loss = "binary_crossentropy",
+  optimizer = optimizer_rmsprop(),
+  metrics = c("accuracy")
+)
+
+```
+
+```{r}
+embeddings$specie <- species$specie
+species <- species[(species$specie == 'MusMusculus'  | species$specie == 'HomoSapiens') , ]
+species$specie <- as.factor(species$specie)
+levels(species$specie)
+levels(species$specie) <- 0:1
+
+embeddings <- embeddings[(embeddings$specie == 'MusMusculus'  | embeddings$specie == 'HomoSapiens') , ] 
+levels(species$specie)
+
+y <- species$specie
+
+embeddings$X <- NULL
+embeddings$specie <- y
+
+smp_size <- floor(0.8 * nrow(embeddings))
+
+train_ind <- sample(seq_len(nrow(embeddings)), size = smp_size)
+
+train <- embeddings[train_ind, ]
+test <- embeddings[-train_ind, ]
+
+y_train <- train$specie
+y_test <- test$specie
+
+train$specie = NULL
+test$specie = NULL
+
+x_train = train
+x_test = test
+
+y_train <- as.numeric(data.matrix(y_train))
+y_test <- as.numeric(data.matrix(y_test))
+x_train = data.matrix(x_train)
+x_test = data.matrix(x_test)
+
+head(x_train)
+head(y_train)
+
+
+```
+
+```{r}
+history <- model %>% fit(
+  x_train, y_train, 
+  epochs = 60, batch_size = 5, 
+  validation_data=list(x_test, y_test)
+#  callbacks = list(
+#  callback_early_stopping(
+#  monitor = "val_loss",
+#  patience = 1,
+#  restore_best_weights = FALSE
+#))
+)
+
+```
+
+```{r}
+plot(history)
+
+```
+
+```{r}
+model %>% evaluate(x_train, y_train,verbose = 0)
+model %>% evaluate(x_test, y_test,verbose = 0)
+
+```
+
+
+
+
+
+
